@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherLogger.Functions", "WeatherLogger.Functions\WeatherLogger.Functions.csproj", "{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WheaterLogger", "WheaterLogger", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherLogger.Functions.Tests", "WeatherLogger.Functions.Tests\WeatherLogger.Functions.Tests.csproj", "{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FF7CEDC-66A1-55F0-D05A-C2F2E4033CD1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{DEF1010A-E899-4CF7-BA12-DB9C4A6ED1CA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC35EC2-C000-4D56-A26E-D39886DF0D2D}
+	EndGlobalSection
+EndGlobal

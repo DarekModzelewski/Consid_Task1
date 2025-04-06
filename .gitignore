@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WeatherLogger.Functions/.vscode
+/WeatherLogger.Functions.Tests/WeatherLogger.Functions.Tests/obj
+/WeatherLogger.Functions.Tests/WeatherLogger.Functions.Tests/bin/Debug/net6.0
+/WeatherLogger.Functions.Tests/bin/Debug/net6.0
+/WeatherLogger.Functions.Tests/obj
