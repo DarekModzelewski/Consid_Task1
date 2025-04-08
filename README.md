@@ -129,8 +129,6 @@ var config = new ConfigurationBuilder().AddInMemoryCollection(new Dictionary<str
 ```
 #### Without a valid API key, the integration test will fail or throw an exception.
 
-## 🧠 Author
 
-Recruitment Task – Consid By Dariusz Modzelewski, 2025
 
 
